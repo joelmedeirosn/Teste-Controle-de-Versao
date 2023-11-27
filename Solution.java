@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 
 
-public class Solution {
+public class Solution { // teste commit
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
